@@ -6,4 +6,4 @@ sinatra style nodejs lighwight server
 * run ```yarn install```
 
 # start project
-```yarn start```
+```node server.js```
