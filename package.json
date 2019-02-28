@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "fastify start server.js"
+  },
+  "name": "event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.0.0",
+    "fastify-cli": "^1.0.0"
+  }
+}
