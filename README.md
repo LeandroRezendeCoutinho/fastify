@@ -1,5 +1,5 @@
 # fastify
-sinatra style nodejs lighwight server 
+nodejs fast and lighwight server 
 
 #setup
 * install yarn
