@@ -1,7 +1,5 @@
-# fastify
-Fast and low overhead web framework, for Node.js
-
-#setup
+# setup
+* install nodejs
 * install yarn
 * run ```yarn install```
 
